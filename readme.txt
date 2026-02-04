@@ -3,8 +3,8 @@ Contributors: jdennisuk
 Donate link: https://jamesdennis.org
 Tags: keto, calculator, nutrition, health, macro
 Requires at least: 5.6
-Tested up to: 6.8
-Stable tag: 1.5
+Tested up to: 6.9.1
+Stable tag: 1.6
 License: GPL v3.0
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -70,6 +70,15 @@ Basic customization through WordPress theme styling is automatic. Advanced custo
 * Includes basic calculator functionality
 * Responsive design implementation
 * Shortcode integration
+
+= 1.4 =
+* Updated minor responsive styleing items.
+
+= 1.5 =
+* Verified stable with WordPress 6.8
+
+= 1.6 =
+* Verified stable with WordPress 6.9.1
 
 == Support ==
 Visit jamesdennis.org for further details and inquiries about the Keto Calculator plugin.
